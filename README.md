@@ -1,2 +1,3 @@
-1. [Отчет по лабораторной работе 1](https://github.com/J-Nickel/UrFU-DA-2023/blob/main/Workshop_1.md)
-2. [Отчет по лабораторной работе 2](https://github.com/J-Nickel/UrFU-DA-2023/blob/main/Workshop_2.md)
+1. [Отчет по лабораторной работе 1](Workshop_1.md)
+2. [Отчет по лабораторной работе 2](Workshop_2.md)
+3. [Отчет по лабораторной работе 3](Workshop_3.md)
