@@ -40,7 +40,7 @@
 
 ## Цель работы
 
-**Подключить модель `Perceptron` к Unity GameObject **
+**Подключить модель `Perceptron` к Unity GameObject**
 
 ## Задание 1
 
